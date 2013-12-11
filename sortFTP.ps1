@@ -89,6 +89,7 @@ function bubbleSort($unsorted_array)
 			
 		}
 	}
+	# I know this is named "Unsorted Array" which makes so sense, but let's roll with it
 	return $unsorted_array
 }
 
