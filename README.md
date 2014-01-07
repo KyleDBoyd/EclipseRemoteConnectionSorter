@@ -18,6 +18,6 @@ powershell.exe -command "& 'E:\Web Workspace\.metadata\.plugins\org.eclipse.rse.
 
 Replace the path above with the path to your Powershell script.
 
-9. Replace your normal Eclipse shortcut with your new shortcut. It will now sort your remote connections every time Eclipse is launched.
+Replace your normal Eclipse shortcut with your new shortcut. It will now sort your remote connections every time Eclipse is launched.
 
 Enjoy!
